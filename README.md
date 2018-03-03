@@ -5,6 +5,7 @@
 - [A practical road-map for web development.](https://codeburst.io/a-practical-approach-to-web-development-1ee37a4ad829)
 - [Front-End Developer Handbook 2018](https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/)
 - [Measure Performance with the RAIL Model](https://developers.google.com/web/fundamentals/performance/rail)
+- [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
 
 ### JavaScript
 - [ES6 tips and tricks to make your code cleaner, shorter, and easier to read!](https://medium.freecodecamp.org/make-your-code-cleaner-shorter-and-easier-to-read-es6-tips-and-tricks-afd4ce25977c)
