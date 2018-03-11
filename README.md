@@ -10,10 +10,11 @@
 - [A beginner’s guide to website optimization](https://medium.freecodecamp.org/a-beginners-guide-to-website-optimization-2185edca0b72)
 
 ### JavaScript
+- [You Don't Know JS - A book series on JavaScript 🔥](https://github.com/getify/You-Dont-Know-JS)
 - [ES6 tips and tricks to make your code cleaner, shorter, and easier to read!](https://medium.freecodecamp.org/make-your-code-cleaner-shorter-and-easier-to-read-es6-tips-and-tricks-afd4ce25977c)
 - [How to keep your JavaScript code simple and increase its readability](https://medium.freecodecamp.org/how-to-keep-your-javascript-code-simple-and-increase-its-readability-94d6a949afc4)
 - [Learn How To Debug JavaScript with Chrome DevTools](https://codeburst.io/learn-how-to-debug-javascript-with-chrome-devtools-9514c58479db)
-- [🔥 JavaScipt Modules Worth Using 🔥](https://hackernoon.com/javascipt-modules-worth-using-9aa7301e41ac)
+- [JavaScipt Modules Worth Using](https://hackernoon.com/javascipt-modules-worth-using-9aa7301e41ac)
 
 ### React
 - [Why did you update?](https://github.com/maicki/why-did-you-update)
