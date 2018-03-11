@@ -7,6 +7,7 @@
 - [Measure Performance with the RAIL Model](https://developers.google.com/web/fundamentals/performance/rail)
 - [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
 - [Speed Tools](https://developers.google.com/web/fundamentals/performance/speed-tools/)
+- [A beginner’s guide to website optimization](https://medium.freecodecamp.org/a-beginners-guide-to-website-optimization-2185edca0b72)
 
 ### JavaScript
 - [ES6 tips and tricks to make your code cleaner, shorter, and easier to read!](https://medium.freecodecamp.org/make-your-code-cleaner-shorter-and-easier-to-read-es6-tips-and-tricks-afd4ce25977c)
