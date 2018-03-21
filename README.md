@@ -23,6 +23,7 @@
 - [Best Practices for Writing React Components](https://engineering.musefind.com/our-best-practices-for-writing-react-components-dec3eb5c3fc8)
 - [Introduction to React's Higher Order Components](https://www.robinwieruch.de/gentle-introduction-higher-order-components/)
 - [In-depth diffing](http://buildwithreact.com/article/in-depth-diffing)
+- [Where to Fetch Data: componentWillMount vs componentDidMount](https://daveceddia.com/where-fetch-data-componentwillmount-vs-componentdidmount/)
 
 
 ### Miscellaneous
