@@ -15,6 +15,7 @@
 - [How to keep your JavaScript code simple and increase its readability](https://medium.freecodecamp.org/how-to-keep-your-javascript-code-simple-and-increase-its-readability-94d6a949afc4)
 - [Learn How To Debug JavaScript with Chrome DevTools](https://codeburst.io/learn-how-to-debug-javascript-with-chrome-devtools-9514c58479db)
 - [JavaScipt Modules Worth Using](https://hackernoon.com/javascipt-modules-worth-using-9aa7301e41ac)
+- [Formatting Date] (https://stackoverflow.com/a/34015511/4339943)
 
 ### React
 - [Why did you update?](https://github.com/maicki/why-did-you-update)
