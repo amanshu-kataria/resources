@@ -16,6 +16,7 @@
 - [Learn How To Debug JavaScript with Chrome DevTools](https://codeburst.io/learn-how-to-debug-javascript-with-chrome-devtools-9514c58479db)
 - [JavaScipt Modules Worth Using](https://hackernoon.com/javascipt-modules-worth-using-9aa7301e41ac)
 - [Formatting Date](https://stackoverflow.com/a/34015511/4339943)
+- [JavaScript Event Loop](https://flaviocopes.com/javascript-event-loop/)
 
 ### React
 - [Why did you update?](https://github.com/maicki/why-did-you-update)
