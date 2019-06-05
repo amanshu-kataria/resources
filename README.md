@@ -26,6 +26,7 @@
 - [Introduction to React's Higher Order Components](https://www.robinwieruch.de/gentle-introduction-higher-order-components/)
 - [In-depth diffing](http://buildwithreact.com/article/in-depth-diffing)
 - [Where to Fetch Data: componentWillMount vs componentDidMount](https://daveceddia.com/where-fetch-data-componentwillmount-vs-componentdidmount/)
+- [Virtual DOM vs DOM](https://reactkungfu.com/2015/10/the-difference-between-virtual-dom-and-dom/)
 
 
 ### Miscellaneous
